@@ -1,0 +1,28 @@
+.
+Project setup
+.
+New Project
+Import assets
+Save scene
+Build settings
+Player settings
+Layour based on resolution
+.
+Player GO
+.
+Add model
+Reset x,y,z (Transform component -> Gear -> Reset)
+Add Materials to Mesh renderer
+Add rigidbody
+Add colider (This determines gravitational pull)
+.
+Camera/Lighting
+.
+Move camera, cleanup value (toInt)
+Choose Projection (Ortho/Persp)
+Clear flags (Skybox/colour)
+Change/remove ambient light (Edit -> Render settings)
+Add new lights:
+. Directional Light (main, reset transform, rotate)
+. Fill light (Opposite side to main light, lower intensity, refraction color(cool/warm))
+. Rim light (
