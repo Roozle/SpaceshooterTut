@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.SpaceshooterTut.CSharp", "UnityVS.SpaceshooterTut.CSharp.csproj", "{F7C803E8-FB06-4D53-6E0B-41BCC3E06EDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.SpaceshooterTut.CSharp.Plugins", "UnityVS.SpaceshooterTut.CSharp.Plugins.csproj", "{43E916C6-FDC6-F59E-7A4C-E4BF5229D0EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7C803E8-FB06-4D53-6E0B-41BCC3E06EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C803E8-FB06-4D53-6E0B-41BCC3E06EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C803E8-FB06-4D53-6E0B-41BCC3E06EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C803E8-FB06-4D53-6E0B-41BCC3E06EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43E916C6-FDC6-F59E-7A4C-E4BF5229D0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E916C6-FDC6-F59E-7A4C-E4BF5229D0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E916C6-FDC6-F59E-7A4C-E4BF5229D0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E916C6-FDC6-F59E-7A4C-E4BF5229D0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
