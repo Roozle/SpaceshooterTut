@@ -41,7 +41,7 @@ public class LevelSet : MonoBehaviour
         levelTable[0, 1] = 1;
         levelTable[0, 2] = 1;
         //W2
-        levelTable[1, 2] = 2;
+        levelTable[1, 0] = 2;
         levelTable[1, 1] = 1.1f;
         levelTable[1, 2] = 2;
         //W3

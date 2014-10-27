@@ -24,6 +24,6 @@ public class EnemyParams : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		this.transform.position += Vector3.forward * 2.0F * Time.deltaTime;
+		//this.transform.position += Vector3.forward * 2.0F * Time.deltaTime;
 	}
 }
